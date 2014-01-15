@@ -1,0 +1,39 @@
+#For Local system
+#api_uri_create_user=https://localhost:8443/TCF_REST_API/foundation-types/users
+#api_uri_read_user=https://localhost:8443/TCF_REST_API/foundation-types/users
+#api_uri_update_user=https://localhost:8443/TCF_REST_API/foundation-types/users
+#api_uri_delete_user=https://localhost:8443/TCF_REST_API/foundation-types/users
+#api_uri_has_role=https://localhost:8443/TCF_REST_API/foundation-types/users
+#api_uri_has_privilege=https://localhost:8443/TCF_REST_API/foundation-types/users
+#For Deployment Server
+#api_uri_create_user=https://ec2-23-21-104-143.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/users
+#api_uri_read_user=https://ec2-23-21-104-143.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/users
+#api_uri_update_user=https://ec2-23-21-104-143.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/users
+#api_uri_delete_user=https://ec2-23-21-104-143.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/users
+#api_uri_has_role=https://ec2-23-21-104-143.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/users
+#api_uri_has_privilege=https://ec2-23-21-104-143.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/users
+#For QA box
+api_uri_create_user=https://ec2-23-21-132-148.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/users
+api_uri_read_user=https://ec2-23-21-132-148.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/users
+api_uri_update_user=https://ec2-23-21-132-148.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/users
+api_uri_delete_user=https://ec2-23-21-132-148.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/users
+api_uri_has_role=https://ec2-23-21-132-148.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/users
+api_uri_has_privilege=https://ec2-23-21-132-148.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/users
+userid=Test_User
+first-name=Test First
+last-name=Test Last
+language=1
+timezone=1
+currency=1
+roles=4,6
+lifecycle-state=
+page-start=
+page-size=
+userid2=pa@trustedcloud.com
+api-key=0d445a36ea047b8a7e7e6903
+api-secret=634d7a7e217813d382bcf8aa
+response_message_create_user_success={"success":"user was created successfully."}
+response_message_read_user_success={"userid":"","privilegeidlist":""}
+response_message_delete_user_success={"success":"user was deleted successfully."}
+response_message_update_user_success={"success":"user was updated successfully."}
+response_message_user_operation_failure={"error":" "}

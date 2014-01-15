@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="cloudzon1" name="com.safenet.restclient.RoleTest" tests="3" time="9.032" timestamp="2012-04-26T10:26:47">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.management.compiler" value="HotSpot Client Compiler" />
+    <property name="env.PROMPT" value="$P$G" />
+    <property name="ant.file.TCF_REST_API_JAVA_CLIENT" value="E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\build.xml" />
+    <property name="ant.file.type.TCF_REST_API_JAVA_CLIENT" value="file" />
+    <property name="os.name" value="Windows 7" />
+    <property name="env.FP_NO_HOST_CHECK" value="NO" />
+    <property name="sun.boot.class.path" value="D:\Program Files\Java\jdk1.7.0_03\jre\lib\resources.jar;D:\Program Files\Java\jdk1.7.0_03\jre\lib\rt.jar;D:\Program Files\Java\jdk1.7.0_03\jre\lib\sunrsasign.jar;D:\Program Files\Java\jdk1.7.0_03\jre\lib\jsse.jar;D:\Program Files\Java\jdk1.7.0_03\jre\lib\jce.jar;D:\Program Files\Java\jdk1.7.0_03\jre\lib\charsets.jar;D:\Program Files\Java\jdk1.7.0_03\jre\classes" />
+    <property name="env.COMPUTERNAME" value="CLOUDZON1" />
+    <property name="env.ALLUSERSPROFILE" value="C:\ProgramData" />
+    <property name="sun.desktop" value="windows" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="ant.home" value="D:\Program Files\apache-ant-1.8.3" />
+    <property name="java.runtime.version" value="1.7.0_03-b05" />
+    <property name="env.HOMEPATH" value="\Users\cloudzon" />
+    <property name="user.name" value="cloudzon" />
+    <property name="user.language" value="en" />
+    <property name="sun.boot.library.path" value="D:\Program Files\Java\jdk1.7.0_03\jre\bin" />
+    <property name="ant.project.default-target" value="build" />
+    <property name="ant.project.name" value="TCF_REST_API_JAVA_CLIENT" />
+    <property name="env.EICDDrive" value="F:\" />
+    <property name="java.version" value="1.7.0_03" />
+    <property name="env.PROCESSOR_IDENTIFIER" value="x86 Family 6 Model 37 Stepping 5, GenuineIntel" />
+    <property name="env.ERLANG_HOME" value="E:\Program Files\erl5.9" />
+    <property name="user.timezone" value="" />
+    <property name="env.TEMP" value="C:\Users\cloudzon\AppData\Local\Temp" />
+    <property name="sun.arch.data.model" value="32" />
+    <property name="env.APR_ICONV_PATH" value="E:\Program Files\Subversion\iconv" />
+    <property name="java.endorsed.dirs" value="D:\Program Files\Java\jdk1.7.0_03\jre\lib\endorsed" />
+    <property name="env._JAVACMD" value="D:\Program Files\Java\jdk1.7.0_03\bin\java.exe" />
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86" />
+    <property name="env.HOMEDRIVE" value="C:" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="file.separator" value="\" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.class.version" value="51.0" />
+    <property name="user.country" value="US" />
+    <property name="java.home" value="D:\Program Files\Java\jdk1.7.0_03\jre" />
+    <property name="env.PSModulePath" value="C:\Windows\system32\WindowsPowerShell\v1.0\Modules\" />
+    <property name="env.APPDATA" value="C:\Users\cloudzon\AppData\Roaming" />
+    <property name="env.PUBLIC" value="C:\Users\Public" />
+    <property name="java.vm.info" value="mixed mode, sharing" />
+    <property name="env.ComSpec" value="C:\Windows\system32\cmd.exe" />
+    <property name="env.OS" value="Windows_NT" />
+    <property name="env.CommonProgramFiles" value="C:\Program Files\Common Files" />
+    <property name="ant.file" value="E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\build.xml" />
+    <property name="os.version" value="6.1" />
+    <property name="env._USE_CLASSPATH" value="no" />
+    <property name="env.=::" value="::\" />
+    <property name="path.separator" value=";" />
+    <property name="java.vm.version" value="22.1-b02" />
+    <property name="user.variant" value="" />
+    <property name="env.USERPROFILE" value="C:\Users\cloudzon" />
+    <property name="ant.library.dir" value="D:\Program Files\apache-ant-1.8.3\lib" />
+    <property name="junit.output.dir" value="junit" />
+    <property name="env.JAVA_HOME" value="D:\Program Files\Java\jdk1.7.0_03" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="env.TMP" value="C:\Users\cloudzon\AppData\Local\Temp" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="user.script" value="" />
+    <property name="user.home" value="C:\Users\cloudzon" />
+    <property name="target" value="1.7" />
+    <property name="env.ProgramData" value="C:\ProgramData" />
+    <property name="env.SESSIONNAME" value="Console" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="env.NUMBER_OF_PROCESSORS" value="4" />
+    <property name="java.library.path" value="D:\Program Files\Java\jdk1.7.0_03\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\DMIX;C:\Program Files\Common Files\DivX Shared\;C:\Program Files\MySQL\MySQL Server 5.1\bin;D:\Program Files\Microsoft SQL Server\100\Tools\Binn\;D:\Program Files\Microsoft SQL Server\100\DTS\Binn\;D:\Program Files\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files\Microsoft Visual Studio 9.0\Common7\IDE\PrivateAssemblies\;E:\Program Files\Subversion\bin;D:\Program Files\TortoiseSVN\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\DMIX;C:\Program Files\Common Files\DivX Shared\;C:\Program Files\MySQL\MySQL Server 5.1\bin;D:\Program Files\Microsoft SQL Server\100\Tools\Binn\;D:\Program Files\Microsoft SQL Server\100\DTS\Binn\;D:\Program Files\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files\Microsoft Visual Studio 9.0\Common7\IDE\PrivateAssemblies\;E:\Program Files\Subversion\bin;D:\Program Files\TortoiseSVN\bin;D:\Program Files\Java\jdk1.7.0_03\bin;D:\Program Files\apache-ant-1.8.3\bin;." />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="env.=E:" value="E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.8.3 compiled on February 26 2012" />
+    <property name="java.class.path" value="E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\bin;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\activation-1.1.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\antlr-2.7.6.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\aopalliance-1.0.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\asm-3.1.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\aspectjrt-1.6.9.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\cglib-2.2.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\commons-beanutils-1.8.3.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\commons-cli-1.1.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\commons-collections-3.2.1.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\commons-dbcp-1.2.1.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\commons-fileupload-1.2.2.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\commons-io-1.2.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\commons-lang-2.4.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\commons-logging-1.1.1.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\commons-pool-1.2.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\dom4j-1.6.1.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\ezmorph-1.0.6.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\hibernate-commons-annotations-3.2.0.Final.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\hibernate-core-3.6.0.Final.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\hibernate-entitymanager-3.6.0.Final.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\hibernate-jpa-2.0-api-1.0.0.Final.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\hibernate-validator-4.0.2.GA.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\javassist-3.12.0.GA.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\javax.inject-1.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\javax.mail.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\jaxb-api-2.1.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\jaxb-impl-2.1.3.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\jcl-over-slf4j-1.5.10.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\json-lib-2.4-jdk15.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\jstl-1.2.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\jta-1.1.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\log4j-1.2.15.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\mysql-connector-java-5.1.6.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.apache.commons.dbcp.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.apache.commons.pool.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.apache.httpclient.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.apache.httpcore.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.apache.lucene.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.apache.solr.common.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.apache.solr.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.eclipse.emf.common.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.eclipse.emf.ecore.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.eclipse.emf.ecore.xmi.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.eclipse.jetty.ajp.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.eclipse.jetty.continuation.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.eclipse.jetty.http.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.eclipse.jetty.io.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.eclipse.jetty.server.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.eclipse.jetty.util.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.jibx.runtime.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.json.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.restlet.ext.atom.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.restlet.ext.crypto.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.restlet.ext.emf.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.restlet.ext.fileupload.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.restlet.ext.freemarker.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.restlet.ext.gwt.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.restlet.ext.html.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.restlet.ext.httpclient.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.restlet.ext.jaas.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.restlet.ext.jackson.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.restlet.ext.javamail.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.restlet.ext.jaxb.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.restlet.ext.jaxrs.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.restlet.ext.jdbc.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.restlet.ext.jetty.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.restlet.ext.jibx.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.restlet.ext.json.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.restlet.ext.lucene.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.restlet.ext.net.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.restlet.ext.oauth.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.restlet.ext.odata.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.restlet.ext.openid.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.restlet.ext.rdf.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.restlet.ext.sdc.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.restlet.ext.servlet.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.restlet.ext.simple.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.restlet.ext.sip.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.restlet.ext.slf4j.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.restlet.ext.spring.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.restlet.ext.ssl.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.restlet.ext.wadl.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.restlet.ext.xml.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.restlet.ext.xstream.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.restlet.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.restlet.test.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.simpleframework.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.springframework.asm.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.springframework.beans.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.springframework.context.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.springframework.core.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.springframework.expression.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.springframework.web.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.springframework.webmvc.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\slf4j-api-1.5.10.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\slf4j-log4j12-1.5.10.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\spring-aop-3.0.5.RELEASE.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\spring-asm-3.0.5.RELEASE.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\spring-beans-3.0.5.RELEASE.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\spring-context-3.0.5.RELEASE.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\spring-context-support-3.0.5.RELEASE.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\spring-core-3.0.5.RELEASE.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\spring-expression-3.0.5.RELEASE.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\spring-jdbc-3.0.5.RELEASE.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\spring-orm-3.0.5.RELEASE.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\spring-tx-3.0.5.RELEASE.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\spring-web-3.0.5.RELEASE.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\spring-webmvc-3.0.5.RELEASE.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\stax-api-1.0-2.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\validation-api-1.0.0.GA.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\xercesImpl-2.0.2.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\xml-apis-1.0.b2.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\junit.jar;E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\lib\org.hamcrest.core_1.1.0.v20090501071000.jar;D:\Program Files\apache-ant-1.8.3\lib\ant-launcher.jar;D:\Program Files\apache-ant-1.8.3\lib\ant.jar;D:\Program Files\apache-ant-1.8.3\lib\ant-junit.jar;D:\Program Files\apache-ant-1.8.3\lib\ant-junit4.jar" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner com.safenet.restclient.RoleTest filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\junit\TEST-com.safenet.restclient.RoleTest.xml crashfile=E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\junitvmwatcher6810050021791761642.properties propsfile=E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT\junit479600797646119090.properties" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="ant.file.type" value="file" />
+    <property name="env.windir" value="C:\Windows" />
+    <property name="env.LOGONSERVER" value="\\CLOUDZON1" />
+    <property name="env.PROCESSOR_ARCHITECTURE" value="x86" />
+    <property name="java.vm.specification.version" value="1.7" />
+    <property name="sun.os.patch.level" value="" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="debuglevel" value="source,lines,vars" />
+    <property name="env.ProgramFiles" value="C:\Program Files" />
+    <property name="env.ANT_HOME" value="D:\Program Files\apache-ant-1.8.3" />
+    <property name="env.PROCESSOR_REVISION" value="2505" />
+    <property name="java.io.tmpdir" value="C:\Users\cloudzon\AppData\Local\Temp\" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="env.SystemRoot" value="C:\Windows" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="os.arch" value="x86" />
+    <property name="env.ANT_CMD_LINE_ARGS" value=" RoleTest.createRole_1" />
+    <property name="java.ext.dirs" value="D:\Program Files\Java\jdk1.7.0_03\jre\lib\ext;C:\Windows\Sun\Java\lib\ext" />
+    <property name="user.dir" value="E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT" />
+    <property name="env.LOCALAPPDATA" value="C:\Users\cloudzon\AppData\Local" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM" />
+    <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC" />
+    <property name="env.Path" value="C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\DMIX;C:\Program Files\Common Files\DivX Shared\;C:\Program Files\MySQL\MySQL Server 5.1\bin;D:\Program Files\Microsoft SQL Server\100\Tools\Binn\;D:\Program Files\Microsoft SQL Server\100\DTS\Binn\;D:\Program Files\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files\Microsoft Visual Studio 9.0\Common7\IDE\PrivateAssemblies\;E:\Program Files\Subversion\bin;D:\Program Files\TortoiseSVN\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\DMIX;C:\Program Files\Common Files\DivX Shared\;C:\Program Files\MySQL\MySQL Server 5.1\bin;D:\Program Files\Microsoft SQL Server\100\Tools\Binn\;D:\Program Files\Microsoft SQL Server\100\DTS\Binn\;D:\Program Files\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files\Microsoft Visual Studio 9.0\Common7\IDE\PrivateAssemblies\;E:\Program Files\Subversion\bin;D:\Program Files\TortoiseSVN\bin;D:\Program Files\Java\jdk1.7.0_03\bin;D:\Program Files\apache-ant-1.8.3\bin" />
+    <property name="basedir" value="E:\STS2.8.1_Workspace\TCF_REST_API_JAVA_CLIENT" />
+    <property name="ant.java.version" value="1.7" />
+    <property name="ant.core.lib" value="D:\Program Files\apache-ant-1.8.3\lib\ant.jar" />
+    <property name="env.USERNAME" value="cloudzon" />
+    <property name="source" value="1.7" />
+    <property name="env.SystemDrive" value="C:" />
+    <property name="file.encoding" value="Cp1252" />
+    <property name="env.VS100COMNTOOLS" value="e:\Program Files\Microsoft Visual Studio 10.0\Common7\Tools\" />
+    <property name="env.USERDOMAIN" value="cloudzon1" />
+    <property name="java.specification.version" value="1.7" />
+    <property name="env.=C:" value="C:\Users\cloudzon" />
+    <property name="ant.project.invoked-targets" value="RoleTest.createRole_1" />
+    <property name="env.PROCESSOR_LEVEL" value="6" />
+  </properties>
+  <testcase classname="com.safenet.restclient.RoleTest" name="createRole" time="3.307" />
+  <testcase classname="com.safenet.restclient.RoleTest" name="readRole" time="2.823" />
+  <testcase classname="com.safenet.restclient.RoleTest" name="deleteRole" time="2.777" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting the Apache HTTP client
+Starting the Apache HTTP client
+Starting the Apache HTTP client
+Starting the Apache HTTP client
+Stopping the HTTP client
+Starting the Apache HTTP client
+Stopping the HTTP client
+Starting the Apache HTTP client
+Stopping the HTTP client
+]]></system-err>
+</testsuite>

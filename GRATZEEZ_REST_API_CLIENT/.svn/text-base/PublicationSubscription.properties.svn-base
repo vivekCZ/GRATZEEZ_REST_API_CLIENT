@@ -1,0 +1,35 @@
+#For Local system
+#api_uri_create_topic=https://localhost:8443/TCF_REST_API/foundation-types/topics
+#api_uri_update_topic=https://localhost:8443/TCF_REST_API/foundation-types/topics
+#api_uri_create_publication=https://localhost:8443/TCF_REST_API/foundation-types/topics/child-topicId-1/publications
+#api_uri_create_subscription=https://localhost:8443/TCF_REST_API/foundation-types/topics/child-topicId-1/subscriptions
+#api_uri_delete_subscription=https://localhost:8443/TCF_REST_API/foundation-types/topics/child-topicId-1/subscriptions/subscriptionid1
+#For Deployment Server
+#api_uri_create_topic=https://ec2-23-21-104-143.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/topics
+#api_uri_update_topic=https://ec2-23-21-104-143.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/topics
+#api_uri_create_publication=https://ec2-23-21-104-143.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/topics/child-topicId-1/publications
+#api_uri_create_subscription=https://ec2-23-21-104-143.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/topics/child-topicId-1/subscriptions
+#api_uri_delete_subscription=https://ec2-23-21-104-143.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/topics/child-topicId-1/subscriptions/subscriptionid1
+#For QA box
+api_uri_create_topic=https://ec2-23-21-132-148.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/topics
+api_uri_update_topic=https://ec2-23-21-132-148.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/topics
+api_uri_create_publication=https://ec2-23-21-132-148.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/topics/child-topicId-1/publications
+api_uri_create_subscription=https://ec2-23-21-132-148.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/topics/child-topicId-1/subscriptions
+api_uri_delete_subscription=https://ec2-23-21-132-148.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/topics/child-topicId-1/subscriptions/subscriptionid1
+api-key=0d445a36ea047b8a7e7e6903
+api-secret=634d7a7e217813d382bcf8aa
+rabbit_mq_server=23.21.104.143
+parent-topic-pathId=parent-topic-pathId
+child-topicId-1=child-topicId-1
+child-topicId-2=child-topicId-2
+child-topic-1a=child-topicId-1a
+child-topic-1b=child-topicId-1b
+durable=false
+publication-type-list=publication-type1,publication-type2,publication-type3
+publication-type=publicationtype_p1
+publication-message={"message":"This message needs to be sent"}
+expiration-in-seconds=0
+notificationid=notificationid
+subscriptionid=Ritesh1_DOT_NET
+callback-url=http://23.21.104.143:8080/TCF_REST_API_CLIENT/notify
+log-entry=false

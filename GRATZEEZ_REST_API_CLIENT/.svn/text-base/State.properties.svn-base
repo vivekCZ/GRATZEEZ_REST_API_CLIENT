@@ -1,0 +1,35 @@
+#For Local system
+#api_uri_create_state=https://localhost:8443/TCF_REST_API/foundation-types/states
+#api_uri_update_state=https://localhost:8443/TCF_REST_API/foundation-types/states
+#api_uri_read_state=https://localhost:8443/TCF_REST_API/foundation-types/states
+#api_uri_delete_state=https://localhost:8443/TCF_REST_API/foundation-types/states
+#api_uri_list_state=https://localhost:8443/TCF_REST_API/foundation-types/states
+#For Deployment Server
+#api_uri_create_state=https://ec2-23-21-104-143.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/states
+#api_uri_update_state=https://ec2-23-21-104-143.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/states
+#api_uri_read_state=https://ec2-23-21-104-143.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/states
+#api_uri_delete_state=https://ec2-23-21-104-143.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/states
+#api_uri_list_state=https://ec2-23-21-104-143.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/states
+#For QA box
+api_uri_create_state=https://ec2-23-21-132-148.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/states
+api_uri_update_state=https://ec2-23-21-132-148.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/states
+api_uri_read_state=https://ec2-23-21-132-148.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/states
+api_uri_delete_state=https://ec2-23-21-132-148.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/states
+api_uri_list_state=https://ec2-23-21-132-148.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/states
+stateId=persistence/p2
+$super=persistence
+scope=tenant
+durability=transient
+group=groupName
+type=json
+pattern=persistence/*
+value_json={"key81":"p2 value1....","key91":"p2 value2...."}
+xml_file=E:/TCF_Docs/StateInfo.xml
+resx_file=E:/TCF_Docs/Resource1.resx
+api-key=0d445a36ea047b8a7e7e6903
+api-secret=634d7a7e217813d382bcf8aa
+response_message_create_state_success={"success":"State was created successfully."} 
+response_message_update_state_success={"success":"State was updated successfully."}
+response_message_read_state_success={"value":"{}"}
+response_message_delete_state_success={"success":"State was deleted successfully."}
+response_message_state_operation_failure={"error":" "}

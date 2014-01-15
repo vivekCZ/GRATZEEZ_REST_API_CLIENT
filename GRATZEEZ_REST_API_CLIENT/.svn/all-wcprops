@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/.classpath
+END
+Logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/3/Logging.properties
+END
+Privilege.properties
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/3/Privilege.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/.project
+END
+Tenant.properties
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/3/Tenant.properties
+END
+EventManagement.properties
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/3/EventManagement.properties
+END
+PublicationSubscription.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/3/PublicationSubscription.properties
+END
+User.properties
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/3/User.properties
+END
+Authentication.properties
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/3/Authentication.properties
+END
+SuperState.properties
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/3/SuperState.properties
+END
+State.properties
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/3/State.properties
+END
+Role.properties
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/3/Role.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/3/build.xml
+END

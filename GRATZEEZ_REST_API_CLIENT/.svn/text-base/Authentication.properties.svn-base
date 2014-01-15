@@ -1,0 +1,30 @@
+#For Local system
+#api_uri_login=https://localhost:8443/TCF_REST_API/foundation-types/authenticators/1/login
+#api_uri_logout=https://localhost:8443/TCF_REST_API/foundation-types/authenticators/logout
+#api_uri_validsession=https://localhost:8443/TCF_REST_API/foundation-types/validsession
+#httpsPort=8443
+#For Deployment Server
+#api_uri_login=https://ec2-23-21-104-143.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/authenticators/1/login
+#api_uri_logout=https://ec2-23-21-104-143.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/authenticators/logout
+#api_uri_validsession=https://ec2-23-21-104-143.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/validsession
+#For QA box
+api_uri_login=https://ec2-23-21-132-148.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/authenticators/1/login
+api_uri_logout=https://ec2-23-21-132-148.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/authenticators/logout
+api_uri_validsession=https://ec2-23-21-132-148.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/validsession
+httpsPort=443
+userid=pa@trustedcloud.com
+#userid=vraj@trustedcloud.com
+password=ibm
+#Local system certificate
+#truststorePath=C:/Users/cloudzon/.keystore
+#Deployment server certificate for testing from local system
+truststorePath=E:/SSLDeploymentServerCertificate/.keystore
+#QA box certificate for testing from local system
+#truststorePath=E:/SSLQABoxCertificate/.keystore
+validsession_duration_seconds=600
+response_message_login_success={"authentication-token":"","authentication-secret":""} 
+response_message_login_failure={"error":"Invalid UserId or Password"}
+response_message_logout_success=200 
+response_message_logout_failure={error:Logout failure}
+response_message_validsession_success=Valid Session
+response_message_validsession_failure=Invalid Session

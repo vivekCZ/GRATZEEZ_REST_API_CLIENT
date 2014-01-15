@@ -1,0 +1,30 @@
+#For Local system
+#api_uri_request_create_new_event=https://localhost:8443/TCF_REST_API/foundation-types/topics/child-topicId-1/publications
+#For Deployment Server
+#api_uri_request_create_new_event=https://ec2-23-21-104-143.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/topics/child-topicId-1/publications
+#For QA box
+api_uri_request_create_new_event=https://ec2-23-21-132-148.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/topics/child-topicId-1/publications
+api-key=0d445a36ea047b8a7e7e6903
+api-secret=634d7a7e217813d382bcf8aa
+applicationId=Yahoo
+tenantid=2
+objectid=pa@trustedcloud.com
+objecttypeId=users
+subsystemId=foundation-types
+criticality=read
+message-text=RESTAPI
+date-time-occurred=2012-02-28 04:38:00
+logtypeid=READ
+categoryid=mycat
+value-type=0
+value=1
+page-start=1
+page-size=5
+start-date-time=2012-02-27 18:27:08
+end-date-time=2012-02-29 18:27:14
+durable=false
+publication-type-list=publication-type1,publication-type2,publication-type3
+publication-type=publicationtype_c1.1
+publication-message={"message":"This message needs to be sent"}
+expiration-in-seconds=0
+log-entry=true

@@ -1,0 +1,26 @@
+#For Local system
+#api_uri_create_role=https://localhost:8443/TCF_REST_API/foundation-types/roles
+#api_uri_assign_role=https://localhost:8443/TCF_REST_API/foundation-types/roles
+#api_uri_read_role=https://localhost:8443/TCF_REST_API/foundation-types/roles
+#api_uri_delete_role=https://localhost:8443/TCF_REST_API/foundation-types/roles
+#For Deployment Server
+#api_uri_create_role=https://ec2-23-21-104-143.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/roles
+#api_uri_assign_role=https://ec2-23-21-104-143.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/roles
+#api_uri_read_role=https://ec2-23-21-104-143.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/roles
+#api_uri_delete_role=https://ec2-23-21-104-143.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/roles
+#For QA box
+api_uri_create_role=https://ec2-23-21-132-148.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/roles
+api_uri_assign_role=https://ec2-23-21-132-148.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/roles
+api_uri_read_role=https://ec2-23-21-132-148.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/roles
+api_uri_delete_role=https://ec2-23-21-132-148.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/roles
+roleid=Test Role
+add-privilegeid-list=3
+remove-privilegeid-list=
+api-key=0d445a36ea047b8a7e7e6903
+api-secret=634d7a7e217813d382bcf8aa
+role-assignments={"2":[{"tenant-roles-list":""},{"33":"+26"},{ "34":""}]}
+response_message_create_role_success={"success":"Role was created successfully."}
+response_message_assign_role_success={"success":"Assign role successfully."}
+response_message_read_role_success={"roleid":"","role-name":""}
+response_message_delete_role_success={"success":"Role was deleted successfully."}
+response_message_role_operation_failure={"error":" "}

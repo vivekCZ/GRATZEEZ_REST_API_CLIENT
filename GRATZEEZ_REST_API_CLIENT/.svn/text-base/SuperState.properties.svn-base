@@ -1,0 +1,16 @@
+#For Local system
+#api_uri_create_super_state=https://localhost:8443/TCF_REST_API/foundation-types/super-states
+#api_uri_read_super_state=https://localhost:8443/TCF_REST_API/foundation-types/super-states
+#For Deployment Server
+#api_uri_create_super_state=https://ec2-23-21-104-143.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/super-states
+#api_uri_read_super_state=https://ec2-23-21-104-143.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/super-states
+#For QA box
+api_uri_create_super_state=https://ec2-23-21-132-148.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/super-states
+api_uri_read_super_state=https://ec2-23-21-132-148.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/super-states
+stateId=superroot/ab.cd.superstate2
+super=superroot
+durability=transient
+api-key=0d445a36ea047b8a7e7e6903
+api-secret=634d7a7e217813d382bcf8aa
+response_message_super_state_create_success={"success":"State was created successfully."} 
+response_message_super_state_read_success={"super":"supervalue"}

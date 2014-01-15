@@ -1,0 +1,21 @@
+#For Local system
+#api_uri_create_privileges=https://localhost:8443/TCF_REST_API/foundation-types/privileges
+#api_uri_read_privileges=https://localhost:8443/TCF_REST_API/foundation-types/privileges
+#api_uri_delete_privileges=https://localhost:8443/TCF_REST_API/foundation-types/privileges
+#For Deployment Server
+#api_uri_create_privileges=https://ec2-23-21-104-143.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/privileges
+#api_uri_read_privileges=https://ec2-23-21-104-143.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/privileges
+#api_uri_delete_privileges=https://ec2-23-21-104-143.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/privileges
+#For QA box
+api_uri_create_privileges=https://ec2-23-21-132-148.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/privileges
+api_uri_read_privileges=https://ec2-23-21-132-148.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/privileges
+api_uri_delete_privileges=https://ec2-23-21-132-148.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/privileges
+api-key=0d445a36ea047b8a7e7e6903
+api-secret=634d7a7e217813d382bcf8aa
+privilegeid=Testing Privilege
+resourceid=1
+operation=Read
+response_message_create_privilege_success={"success":"Privilege was created successfully."}
+response_message_read_privilege_success={"privilegeid":"","privilege-name":""}
+response_message_delete_privilege_success={"success":"Privilege was deleted successfully."}
+response_message_privilege_operation_failure={"error":" "}

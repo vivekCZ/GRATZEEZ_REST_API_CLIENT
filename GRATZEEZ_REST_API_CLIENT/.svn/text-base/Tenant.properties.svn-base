@@ -1,0 +1,29 @@
+#For Local system
+#api_uri_request_create_tenant=https://localhost:8443/TCF_REST_API/foundation-types/tenants/request-new
+#api_uri_create_tenant=https://localhost:8443/TCF_REST_API/foundation-types/tenants
+#For Deployment Server
+#api_uri_request_create_tenant=https://ec2-23-21-104-143.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/tenants/request-new
+#api_uri_create_tenant=https://ec2-23-21-104-143.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/tenants
+#For QA box
+api_uri_request_create_tenant=https://ec2-23-21-132-148.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/tenants/request-new
+api_uri_create_tenant=https://ec2-23-21-132-148.compute-1.amazonaws.com:443/TCF_REST_API/foundation-types/tenants
+api-key=0d445a36ea047b8a7e7e6903
+api-secret=634d7a7e217813d382bcf8aa
+tenantid=infosoft
+tenantName=infosoft
+domain=sam@cloudzon.com
+industry=cloudzon infosoft
+first-name=firstname
+last-name=lastname
+job-title=jr.developer
+email=saumilshah258@yahoo.com
+company-name=companyname
+country=1
+no-of-employees=11-25
+timeframe-project-rollout=1-90 days
+language-id=1
+offer-saas=yes
+registration-reason=registration-reason
+response_message_request_create_tenant_success={"success":"New Tenant request was submitted successfully."} 
+response_message_create_tenant_success={"success":"New Tenant request has been activated successfully."}
+response_message_tenant_operation_failure={"error":" "}

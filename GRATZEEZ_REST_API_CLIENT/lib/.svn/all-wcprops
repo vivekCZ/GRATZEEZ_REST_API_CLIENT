@@ -1,0 +1,689 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib
+END
+spring-context-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/spring-context-3.0.5.RELEASE.jar
+END
+spring-beans-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/spring-beans-3.0.5.RELEASE.jar
+END
+org.restlet.ext.jdbc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.restlet.ext.jdbc.jar
+END
+org.eclipse.emf.ecore.xmi.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.eclipse.emf.ecore.xmi.jar
+END
+org.freemarker.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.freemarker.jar
+END
+org.apache.solr.common.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.apache.solr.common.jar
+END
+spring-context-support-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/spring-context-support-3.0.5.RELEASE.jar
+END
+org.eclipse.jetty.io.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.eclipse.jetty.io.jar
+END
+org.restlet.ext.json.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.restlet.ext.json.jar
+END
+org.restlet.ext.lucene.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.restlet.ext.lucene.jar
+END
+jaxb-impl-2.1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/jaxb-impl-2.1.3.jar
+END
+javax.inject-1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/javax.inject-1.jar
+END
+org.apache.httpclient.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.apache.httpclient.jar
+END
+org.eclipse.jetty.util.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.eclipse.jetty.util.jar
+END
+org.eclipse.jetty.http.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.eclipse.jetty.http.jar
+END
+org.restlet.ext.slf4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.restlet.ext.slf4j.jar
+END
+org.springframework.webmvc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.springframework.webmvc.jar
+END
+org.apache.commons.pool.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.apache.commons.pool.jar
+END
+org.restlet.ext.jaxb.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.restlet.ext.jaxb.jar
+END
+org.restlet.ext.fileupload.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.restlet.ext.fileupload.jar
+END
+commons-fileupload-1.2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/commons-fileupload-1.2.2.jar
+END
+org.restlet.ext.net.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.restlet.ext.net.jar
+END
+org.simpleframework.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.simpleframework.jar
+END
+org.apache.httpcore.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.apache.httpcore.jar
+END
+log4j-1.2.15.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/log4j-1.2.15.jar
+END
+org.jibx.runtime.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.jibx.runtime.jar
+END
+aopalliance-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/aopalliance-1.0.jar
+END
+org.restlet.ext.xml.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.restlet.ext.xml.jar
+END
+org.restlet.ext.gwt.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.restlet.ext.gwt.jar
+END
+org.restlet.ext.ssl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.restlet.ext.ssl.jar
+END
+org.restlet.ext.spring.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.restlet.ext.spring.jar
+END
+slf4j-api-1.5.10.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/slf4j-api-1.5.10.jar
+END
+jstl-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/jstl-1.2.jar
+END
+jta-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/jta-1.1.jar
+END
+javassist-3.12.0.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/javassist-3.12.0.GA.jar
+END
+org.eclipse.emf.ecore.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.eclipse.emf.ecore.jar
+END
+spring-orm-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/spring-orm-3.0.5.RELEASE.jar
+END
+commons-dbcp-1.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/commons-dbcp-1.2.1.jar
+END
+spring-expression-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/spring-expression-3.0.5.RELEASE.jar
+END
+org.restlet.ext.sdc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.restlet.ext.sdc.jar
+END
+stax-api-1.0-2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/stax-api-1.0-2.jar
+END
+org.apache.lucene.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.apache.lucene.jar
+END
+org.eclipse.jetty.ajp.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.eclipse.jetty.ajp.jar
+END
+org.eclipse.jetty.continuation.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.eclipse.jetty.continuation.jar
+END
+spring-jdbc-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/spring-jdbc-3.0.5.RELEASE.jar
+END
+org.springframework.web.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.springframework.web.jar
+END
+org.restlet.ext.jaas.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.restlet.ext.jaas.jar
+END
+org.apache.solr.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.apache.solr.jar
+END
+org.apache.commons.dbcp.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.apache.commons.dbcp.jar
+END
+org.restlet.ext.xstream.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.restlet.ext.xstream.jar
+END
+org.restlet.ext.freemarker.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.restlet.ext.freemarker.jar
+END
+json-lib-2.4-jdk15.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/json-lib-2.4-jdk15.jar
+END
+javax.mail.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/javax.mail.jar
+END
+org.restlet.ext.javamail.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.restlet.ext.javamail.jar
+END
+commons-logging-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/commons-logging-1.1.1.jar
+END
+org.springframework.beans.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.springframework.beans.jar
+END
+spring-aop-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/spring-aop-3.0.5.RELEASE.jar
+END
+org.restlet.ext.simple.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.restlet.ext.simple.jar
+END
+hibernate-jpa-2.0-api-1.0.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/hibernate-jpa-2.0-api-1.0.0.Final.jar
+END
+hibernate-entitymanager-3.6.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/hibernate-entitymanager-3.6.0.Final.jar
+END
+org.springframework.expression.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.springframework.expression.jar
+END
+commons-beanutils-1.8.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/commons-beanutils-1.8.3.jar
+END
+org.restlet.ext.jetty.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.restlet.ext.jetty.jar
+END
+org.eclipse.emf.common.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.eclipse.emf.common.jar
+END
+xom-1.2.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/3/lib/xom-1.2.8.jar
+END
+org.restlet.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.restlet.jar
+END
+org.restlet.ext.html.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.restlet.ext.html.jar
+END
+spring-tx-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/spring-tx-3.0.5.RELEASE.jar
+END
+org.restlet.ext.emf.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.restlet.ext.emf.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/dom4j-1.6.1.jar
+END
+commons-io-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/commons-io-1.2.jar
+END
+asm-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/asm-3.1.jar
+END
+mysql-connector-java-5.1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/mysql-connector-java-5.1.6.jar
+END
+hibernate-core-3.6.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/hibernate-core-3.6.0.Final.jar
+END
+jcl-over-slf4j-1.5.10.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/jcl-over-slf4j-1.5.10.jar
+END
+slf4j-log4j12-1.5.10.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/slf4j-log4j12-1.5.10.jar
+END
+org.restlet.ext.openid.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.restlet.ext.openid.jar
+END
+org.restlet.ext.crypto.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.restlet.ext.crypto.jar
+END
+commons-collections-3.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/commons-collections-3.2.1.jar
+END
+jaxb-api-2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/jaxb-api-2.1.jar
+END
+activation-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/activation-1.1.jar
+END
+org.json.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.json.jar
+END
+org.restlet.ext.sip.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.restlet.ext.sip.jar
+END
+org.restlet.ext.jibx.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.restlet.ext.jibx.jar
+END
+org.restlet.ext.atom.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.restlet.ext.atom.jar
+END
+aspectjrt-1.6.9.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/aspectjrt-1.6.9.jar
+END
+spring-core-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/spring-core-3.0.5.RELEASE.jar
+END
+xercesImpl-2.0.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/xercesImpl-2.0.2.jar
+END
+hibernate-validator-4.0.2.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/hibernate-validator-4.0.2.GA.jar
+END
+org.eclipse.jetty.server.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.eclipse.jetty.server.jar
+END
+commons-cli-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/commons-cli-1.1.jar
+END
+cglib-2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/cglib-2.2.jar
+END
+commons-pool-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/commons-pool-1.2.jar
+END
+org.restlet.ext.rdf.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.restlet.ext.rdf.jar
+END
+validation-api-1.0.0.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/validation-api-1.0.0.GA.jar
+END
+org.restlet.ext.httpclient.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.restlet.ext.httpclient.jar
+END
+ezmorph-1.0.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/ezmorph-1.0.6.jar
+END
+org.springframework.asm.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.springframework.asm.jar
+END
+org.restlet.ext.oauth.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.restlet.ext.oauth.jar
+END
+org.restlet.test.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.restlet.test.jar
+END
+antlr-2.7.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/antlr-2.7.6.jar
+END
+xml-apis-1.0.b2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/xml-apis-1.0.b2.jar
+END
+org.springframework.context.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.springframework.context.jar
+END
+org.restlet.ext.servlet.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.restlet.ext.servlet.jar
+END
+commons-lang-2.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/commons-lang-2.4.jar
+END
+hibernate-commons-annotations-3.2.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/hibernate-commons-annotations-3.2.0.Final.jar
+END
+org.restlet.ext.jaxrs.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.restlet.ext.jaxrs.jar
+END
+org.restlet.ext.wadl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.restlet.ext.wadl.jar
+END
+org.springframework.core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.springframework.core.jar
+END
+spring-web-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/spring-web-3.0.5.RELEASE.jar
+END
+org.restlet.ext.jackson.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.restlet.ext.jackson.jar
+END
+org.restlet.ext.odata.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/org.restlet.ext.odata.jar
+END
+spring-asm-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/spring-asm-3.0.5.RELEASE.jar
+END
+spring-webmvc-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/TCF_REST_API_JAVA_CLIENT/!svn/ver/1/lib/spring-webmvc-3.0.5.RELEASE.jar
+END

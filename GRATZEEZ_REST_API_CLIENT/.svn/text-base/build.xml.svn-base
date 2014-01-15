@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- WARNING: Eclipse auto-generated file.
+              Any modifications will be overwritten.
+              To include a user specific buildfile here, simply create one in the same
+              directory with the processing instruction <?eclipse.ant.import?>
+              as the first entry and export the buildfile again. -->
+<project basedir="." default="build" name="TCF_REST_API_JAVA_CLIENT">
+    <property environment="env"/>
+    <property name="junit.output.dir" value="junit"/>
+    <property name="debuglevel" value="source,lines,vars"/>
+    <property name="target" value="1.6"/>
+    <property name="source" value="1.6"/>
+    <path id="TCF_REST_API_JAVA_CLIENT.classpath">
+        <pathelement location="bin"/>
+        <pathelement location="lib/activation-1.1.jar"/>
+        <pathelement location="lib/antlr-2.7.6.jar"/>
+        <pathelement location="lib/aopalliance-1.0.jar"/>
+        <pathelement location="lib/asm-3.1.jar"/>
+        <pathelement location="lib/aspectjrt-1.6.9.jar"/>
+        <pathelement location="lib/cglib-2.2.jar"/>
+        <pathelement location="lib/commons-beanutils-1.8.3.jar"/>
+        <pathelement location="lib/commons-cli-1.1.jar"/>
+        <pathelement location="lib/commons-collections-3.2.1.jar"/>
+        <pathelement location="lib/commons-dbcp-1.2.1.jar"/>
+        <pathelement location="lib/commons-fileupload-1.2.2.jar"/>
+        <pathelement location="lib/commons-io-1.2.jar"/>
+        <pathelement location="lib/commons-lang-2.4.jar"/>
+        <pathelement location="lib/commons-logging-1.1.1.jar"/>
+        <pathelement location="lib/commons-pool-1.2.jar"/>
+        <pathelement location="lib/dom4j-1.6.1.jar"/>
+        <pathelement location="lib/ezmorph-1.0.6.jar"/>
+        <pathelement location="lib/hibernate-commons-annotations-3.2.0.Final.jar"/>
+        <pathelement location="lib/hibernate-core-3.6.0.Final.jar"/>
+        <pathelement location="lib/hibernate-entitymanager-3.6.0.Final.jar"/>
+        <pathelement location="lib/hibernate-jpa-2.0-api-1.0.0.Final.jar"/>
+        <pathelement location="lib/hibernate-validator-4.0.2.GA.jar"/>
+        <pathelement location="lib/javassist-3.12.0.GA.jar"/>
+        <pathelement location="lib/javax.inject-1.jar"/>
+        <pathelement location="lib/javax.mail.jar"/>
+        <pathelement location="lib/jaxb-api-2.1.jar"/>
+        <pathelement location="lib/jaxb-impl-2.1.3.jar"/>
+        <pathelement location="lib/jcl-over-slf4j-1.5.10.jar"/>
+        <pathelement location="lib/json-lib-2.4-jdk15.jar"/>
+        <pathelement location="lib/jstl-1.2.jar"/>
+        <pathelement location="lib/jta-1.1.jar"/>
+        <pathelement location="lib/log4j-1.2.15.jar"/>
+        <pathelement location="lib/mysql-connector-java-5.1.6.jar"/>
+        <pathelement location="lib/org.apache.commons.dbcp.jar"/>
+        <pathelement location="lib/org.apache.commons.pool.jar"/>
+        <pathelement location="lib/org.apache.httpclient.jar"/>
+        <pathelement location="lib/org.apache.httpcore.jar"/>
+        <pathelement location="lib/org.apache.lucene.jar"/>
+        <pathelement location="lib/org.apache.solr.common.jar"/>
+        <pathelement location="lib/org.apache.solr.jar"/>
+        <pathelement location="lib/org.eclipse.emf.common.jar"/>
+        <pathelement location="lib/org.eclipse.emf.ecore.jar"/>
+        <pathelement location="lib/org.eclipse.emf.ecore.xmi.jar"/>
+        <pathelement location="lib/org.eclipse.jetty.ajp.jar"/>
+        <pathelement location="lib/org.eclipse.jetty.continuation.jar"/>
+        <pathelement location="lib/org.eclipse.jetty.http.jar"/>
+        <pathelement location="lib/org.eclipse.jetty.io.jar"/>
+        <pathelement location="lib/org.eclipse.jetty.server.jar"/>
+        <pathelement location="lib/org.eclipse.jetty.util.jar"/>
+        <pathelement location="lib/org.jibx.runtime.jar"/>
+        <pathelement location="lib/org.json.jar"/>
+        <pathelement location="lib/org.restlet.ext.atom.jar"/>
+        <pathelement location="lib/org.restlet.ext.crypto.jar"/>
+        <pathelement location="lib/org.restlet.ext.emf.jar"/>
+        <pathelement location="lib/org.restlet.ext.fileupload.jar"/>
+        <pathelement location="lib/org.restlet.ext.freemarker.jar"/>
+        <pathelement location="lib/org.restlet.ext.gwt.jar"/>
+        <pathelement location="lib/org.restlet.ext.html.jar"/>
+        <pathelement location="lib/org.restlet.ext.httpclient.jar"/>
+        <pathelement location="lib/org.restlet.ext.jaas.jar"/>
+        <pathelement location="lib/org.restlet.ext.jackson.jar"/>
+        <pathelement location="lib/org.restlet.ext.javamail.jar"/>
+        <pathelement location="lib/org.restlet.ext.jaxb.jar"/>
+        <pathelement location="lib/org.restlet.ext.jaxrs.jar"/>
+        <pathelement location="lib/org.restlet.ext.jdbc.jar"/>
+        <pathelement location="lib/org.restlet.ext.jetty.jar"/>
+        <pathelement location="lib/org.restlet.ext.jibx.jar"/>
+        <pathelement location="lib/org.restlet.ext.json.jar"/>
+        <pathelement location="lib/org.restlet.ext.lucene.jar"/>
+        <pathelement location="lib/org.restlet.ext.net.jar"/>
+        <pathelement location="lib/org.restlet.ext.oauth.jar"/>
+        <pathelement location="lib/org.restlet.ext.odata.jar"/>
+        <pathelement location="lib/org.restlet.ext.openid.jar"/>
+        <pathelement location="lib/org.restlet.ext.rdf.jar"/>
+        <pathelement location="lib/org.restlet.ext.sdc.jar"/>
+        <pathelement location="lib/org.restlet.ext.servlet.jar"/>
+        <pathelement location="lib/org.restlet.ext.simple.jar"/>
+        <pathelement location="lib/org.restlet.ext.sip.jar"/>
+        <pathelement location="lib/org.restlet.ext.slf4j.jar"/>
+        <pathelement location="lib/org.restlet.ext.spring.jar"/>
+        <pathelement location="lib/org.restlet.ext.ssl.jar"/>
+        <pathelement location="lib/org.restlet.ext.wadl.jar"/>
+        <pathelement location="lib/org.restlet.ext.xml.jar"/>
+        <pathelement location="lib/org.restlet.ext.xstream.jar"/>
+        <pathelement location="lib/org.restlet.jar"/>
+        <pathelement location="lib/org.restlet.test.jar"/>
+        <pathelement location="lib/org.simpleframework.jar"/>
+        <pathelement location="lib/org.springframework.asm.jar"/>
+        <pathelement location="lib/org.springframework.beans.jar"/>
+        <pathelement location="lib/org.springframework.context.jar"/>
+        <pathelement location="lib/org.springframework.core.jar"/>
+        <pathelement location="lib/org.springframework.expression.jar"/>
+        <pathelement location="lib/org.springframework.web.jar"/>
+        <pathelement location="lib/org.springframework.webmvc.jar"/>
+        <pathelement location="lib/slf4j-api-1.5.10.jar"/>
+        <pathelement location="lib/slf4j-log4j12-1.5.10.jar"/>
+        <pathelement location="lib/spring-aop-3.0.5.RELEASE.jar"/>
+        <pathelement location="lib/spring-asm-3.0.5.RELEASE.jar"/>
+        <pathelement location="lib/spring-beans-3.0.5.RELEASE.jar"/>
+        <pathelement location="lib/spring-context-3.0.5.RELEASE.jar"/>
+        <pathelement location="lib/spring-context-support-3.0.5.RELEASE.jar"/>
+        <pathelement location="lib/spring-core-3.0.5.RELEASE.jar"/>
+        <pathelement location="lib/spring-expression-3.0.5.RELEASE.jar"/>
+        <pathelement location="lib/spring-jdbc-3.0.5.RELEASE.jar"/>
+        <pathelement location="lib/spring-orm-3.0.5.RELEASE.jar"/>
+        <pathelement location="lib/spring-tx-3.0.5.RELEASE.jar"/>
+        <pathelement location="lib/spring-web-3.0.5.RELEASE.jar"/>
+        <pathelement location="lib/spring-webmvc-3.0.5.RELEASE.jar"/>
+        <pathelement location="lib/stax-api-1.0-2.jar"/>
+        <pathelement location="lib/validation-api-1.0.0.GA.jar"/>
+        <pathelement location="lib/xercesImpl-2.0.2.jar"/>
+        <pathelement location="lib/xml-apis-1.0.b2.jar"/>
+        <pathelement location="lib/junit.jar"/>
+        <pathelement location="lib/org.hamcrest.core_1.1.0.v20090501071000.jar"/>
+    </path>
+    <target name="init">
+        <mkdir dir="bin"/>
+        <copy includeemptydirs="false" todir="bin">
+            <fileset dir="src/test/java">
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+    </target>
+    <target name="clean">
+        <delete dir="bin"/>
+    </target>
+    <target depends="clean" name="cleanall"/>
+    <target depends="build-subprojects,build-project" name="build"/>
+    <target name="build-subprojects"/>
+    <target depends="init" name="build-project">
+        <echo message="${ant.project.name}: ${ant.file}"/>
+        <javac debug="true" debuglevel="${debuglevel}" destdir="bin" source="${source}" target="${target}">
+            <src path="src/test/java"/>
+            <classpath refid="TCF_REST_API_JAVA_CLIENT.classpath"/>
+        </javac>
+    </target>
+    <target description="Build all projects which reference this project. Useful to propagate changes." name="build-refprojects"/>
+    <target name="AllTests_TCF_REST_API_JAVA_CLIENT">
+        <mkdir dir="${junit.output.dir}"/>
+        <junit fork="yes" printsummary="withOutAndErr">
+            <formatter type="xml"/>
+            <test name="com.safenet.restclient.AllTests" todir="${junit.output.dir}"/>
+            <classpath refid="TCF_REST_API_JAVA_CLIENT.classpath"/>
+        </junit>
+    </target>
+    <target name="junitreport">
+        <junitreport todir="${junit.output.dir}">
+            <fileset dir="${junit.output.dir}">
+                <include name="TEST-*.xml"/>
+            </fileset>
+            <report format="frames" todir="${junit.output.dir}"/>
+        </junitreport>
+    </target>
+</project>
