@@ -25,7 +25,7 @@ public class AddGratuityTest extends BaseTest
 		try 
 		{
 			prop = loadPropertyFile("AddGratuity.properties");
-			System.out.println("This is try project");
+			System.out.println("This is try project modified one again");
 		} 
 		catch (Exception e) 
 		{
